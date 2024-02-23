@@ -1,0 +1,19 @@
+.buttons{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    margin-top: 3rem;
+}
+button{
+    background-color: white;
+    padding: 0.5rem 2rem;
+    border: solid rgb(227, 227, 227) ;
+    border-width: 0.01rem;
+    border-radius: 7px;
+    width: 10rem;
+}
+.buttons #btn1{
+    background-color: #25C4F4;
+    color: white;
+    
+}

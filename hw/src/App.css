@@ -1,0 +1,11 @@
+body{
+  font-family: poppins;
+}
+.App{
+  display: flex;
+  gap: 8rem;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4.5rem;
+  
+}
