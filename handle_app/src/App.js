@@ -6,10 +6,10 @@ function App() {
   const [result,setResult]=useState(0)
 
   function handleButtonClickInc(){
-      setResult(setResult+1)
+      setResult(result+1)
   }
   function handleButtonClickDec(){
-    setResult(setResult-1)
+    setResult(result-1)
   }
   function handleButtonClickReset(){
     setResult(0)
